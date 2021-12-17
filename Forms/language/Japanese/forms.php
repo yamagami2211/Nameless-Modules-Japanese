@@ -7,7 +7,7 @@
  *
  *  License: MIT
  *
- *  EnglishUK Language for Forms module
+ *  Japanese Language for Forms module
  */
 
 $language = array(

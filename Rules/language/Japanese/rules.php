@@ -4,6 +4,8 @@
  *	https://coldfiredzn.com
  *
  *	Using code from the vote module by Partydragen and Samerton
+ *
+ *  Japanese Language for Rules module
  */
 
 $language = array( 
