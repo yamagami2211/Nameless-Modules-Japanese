@@ -10,6 +10,7 @@ issuesとかで報告してください。
 * [Forms](https://github.com/yamagami2211/Nameless-Modules-Japanese/releases/tag/Forms-Japanese-Release)
 * [Rules](https://github.com/yamagami2211/Nameless-Modules-Japanese/releases/tag/Rules-Japanese-Release)
 * [Suggestions](https://github.com/yamagami2211/Nameless-Modules-Japanese/releases/tag/Suggestions-Japanese-Release)
+* [Staff](https://github.com/yamagami2211/Nameless-Modules-Japanese/releases/tag/Staff-Japanese-Release)
 
 # 作成
 やまがみ [Twitter](https://twitter.com/yamagami2211_02)
